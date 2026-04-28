@@ -1,0 +1,42 @@
+format: jb-book
+root: README.md
+chapters:
+- file: 1.1_stock_prices.ipynb
+- file: 1.2_jegadeesh_titman.ipynb
+- file: 1.3_fama_french.ipynb
+- file: 1.4_fama_macbeth.ipynb
+- file: 1.5_contrarian_trading.ipynb
+- file: 1.6_quant_factors.ipynb
+- file: 1.7_event_study.ipynb
+- file: 2.1_economic_indicators.ipynb
+- file: 2.2_regression_diagnostics.ipynb
+- file: 2.3_time_series.ipynb
+- file: 2.4_approximate_factors.ipynb
+- file: 2.5_economic_states.ipynb
+- file: 3.1_term_structure.ipynb
+- file: 3.2_bond_returns.ipynb
+- file: 3.3_options_pricing.ipynb
+- file: 3.4_value_at_risk.ipynb
+- file: 3.5_covariance_matrix.ipynb
+- file: 3.6_market_microstructure.ipynb
+- file: 3.7_event_risk.ipynb
+- file: 4.1_network_graphs.ipynb
+- file: 4.2_community_detection.ipynb
+- file: 4.3_graph_centrality.ipynb
+- file: 4.4_link_prediction.ipynb
+- file: 4.5_spatial_regression.ipynb
+- file: 5.1_fomc_topics.ipynb
+- file: 5.2_management_sentiment.ipynb
+- file: 5.3_business_textual.ipynb
+- file: 6.1_classification_models.ipynb
+- file: 6.2_regression_models.ipynb
+- file: 6.3_deep_learning.ipynb
+- file: 6.4_convolutional_net.ipynb
+- file: 6.5_recurrent_net.ipynb
+- file: 6.6_reinforcement_learning.ipynb
+- file: 6.7_language_modeling.ipynb
+- file: 7.1_large_language_models.ipynb
+- file: 7.2_llm_finetuning.ipynb
+- file: 7.3_llm_prompting.ipynb
+- file: 7.4_llm_agents.ipynb
+
