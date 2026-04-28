@@ -1,8 +1,8 @@
 version: 2
 
-#sphinx:
+sphinx:
   # Path to your Sphinx configuration file.
-#  configuration: docs/conf.py
+  configuration: docs/conf.py
 
 # Set the version of Python and other tools you might need
 build:
@@ -10,10 +10,10 @@ build:
   tools:
     python: "3.10"
 #    nodejs: "20"    
-#  jobs:
-#    pre_build:
-#      # Generate on-the-fly Sphinx configuration from Jupyter Book's _config.yml
-#      - "jupyter-book config sphinx ."
+  jobs:
+    pre_build:
+      # Generate on-the-fly Sphinx configuration from Jupyter Book's _config.yml
+      - "jupyter-book config sphinx ."
 
 python:
    install:
