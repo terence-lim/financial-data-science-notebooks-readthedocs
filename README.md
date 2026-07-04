@@ -9,8 +9,7 @@
 }
 ```
 Lim, Terence (2025). *Financial Data Science in Python Notebooks*. Retrieved from [https://ter
-ence-lim.github.io/docs/financial-data-science-notebooks.pdf](https://terence-lim.github.io/do
-cs/financial-data-science-notebooks.pdf)
+ence-lim.github.io/docs/financial-data-science-notebooks.pdf](https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf)
 
 
 ## Overview
