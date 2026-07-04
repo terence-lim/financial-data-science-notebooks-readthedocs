@@ -8,8 +8,7 @@
   url          = {https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf},
 }
 ```
-Lim, Terence (2025). *Financial Data Science in Python Notebooks*. Retrieved from [https://ter
-ence-lim.github.io/docs/financial-data-science-notebooks.pdf](https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf)
+Lim, Terence (2025). *Financial Data Science in Python Notebooks*. Retrieved from [https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf](https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf)
 
 
 ## Overview
